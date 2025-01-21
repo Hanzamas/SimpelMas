@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo1NTUxNTI=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="54cd7123-f6ba-4feb-a500-c07bf80da345" />
+              </chat>
+              <chat>
+                <internalId value="b4673543-54b8-4348-9557-683cefe8bfb1" />
+              </chat>
+              <chat>
+                <internalId value="b7b567cf-7906-4e67-b53c-17a8059322fe" />
+              </chat>
+              <chat>
+                <internalId value="c59485cf-8ed2-4d27-b97c-2af049fb49ff" />
+              </chat>
+              <chat>
+                <internalId value="d42eba77-cff2-462c-a3ff-c547eba7fd3a" />
+              </chat>
+              <chat>
+                <internalId value="56828767-2890-4f65-bb19-449f0e6db4ab" />
+              </chat>
+              <chat>
+                <internalId value="4e8a672d-cb55-4ef8-b0e9-f544ea845b19" />
+              </chat>
+              <chat>
+                <internalId value="40b630b3-e7f1-42cf-83a3-5d1fcd4f1790" />
+              </chat>
+              <chat>
+                <internalId value="abbb7e28-1142-48cf-b428-4e2625607728" />
+              </chat>
+              <chat>
+                <internalId value="e2f8b110-42c7-4698-9d05-9cca44d04ad1" />
+              </chat>
+              <chat>
+                <internalId value="cf22553b-c7a9-4834-b13f-e59e66d3bbb8" />
+              </chat>
+              <chat>
+                <internalId value="f1f304be-46f5-443d-9705-10dee2da74b2" />
+              </chat>
+              <chat>
+                <internalId value="94c9cad3-19c4-4c5b-8644-bca274deab43" />
+              </chat>
+              <chat>
+                <internalId value="04d8f9fd-1458-44d0-a0c0-8ddb8d4aab8e" />
+              </chat>
+              <chat>
+                <internalId value="3093b578-add8-4958-8dc2-95362ab6810b" />
+              </chat>
+              <chat>
+                <internalId value="20a67e71-c050-4a33-9863-bf66ae681c5d" />
+              </chat>
+              <chat>
+                <internalId value="faae90c1-3459-48ab-988c-d4eaabeaa82c" />
+              </chat>
+              <chat>
+                <internalId value="7efa536a-2a06-4509-a3b8-5259936ea89b" />
+              </chat>
+              <chat>
+                <internalId value="883013b9-f3be-426b-b2eb-82624c0e4ea0" />
+              </chat>
+            </list>
+          </chats>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>
